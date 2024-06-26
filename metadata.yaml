@@ -1,0 +1,28 @@
+_repo: A-voice-from-Harper-s-Ferry-a-narrative-of-events-at-Harper-s-Ferry-b-with-incidents-prior-an__73843
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anderson, Osborne P.
+    gutenberg_agent_id: '57245'
+    url: http://www.gutenberg.org/2009/agents/57245
+description: ''
+gutenberg_issued: '2024-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73843'
+language: en
+pgterms:marc904: https://archive.org/details/historyofsealofu00unit
+pgterms:marc905: 20240211180700anderson
+pgterms:marc906: '1861'
+pgterms:marc907: US
+production_note: Carla Foust and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aBoston, MA :$bOsborne P. Anderson, $c1861.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A voice from Harper''s Ferry; a narrative of events at Harper''s Ferry : $b
+  with incidents prior and subsequent to its capture by Captain Brown and his men'
+url: http://www.gutenberg.org/ebooks/73843
